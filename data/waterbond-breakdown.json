@@ -1,0 +1,202 @@
+{
+	"nameShort":"2014 Water Bond",
+	"name": "2014 Water Bond",
+	"children": [
+	
+	
+		{
+		   "nameShort":"Drinking Water",
+		   "name": "“Clean, Safe and Reliable Drinking Water”",
+		   "category":"drinking",
+		   "amtDisplay":"$520 million",
+		   "img":"",
+		   "description":"This category funds projects that improve water quality, including addressing contamination in drinking water supplies.",
+		   "children": [
+					{
+						"nameShort":"Small Community Wastewater Treatment",
+					   "name": "Small Community Wastewater Treatment",  "amtDisplay":"$260 million","value": 260, "agency": "State Water Board Special Fund", "url": "",
+						 "img":"",
+						   "description":"This sum will be granted to small communities through the State Water Pollution Control Revolving Fund Small Community Grant Fund to address wastewater treatment. Priority will be given to disadvantaged communities and public health hazards.  "
+					},{
+						"nameShort":"Drinking Water Grants and Loans",
+					   "name": "Drinking Water Grants and Loans",  "amtDisplay":"$260 million","value": 260, "agency": "", "url": "", "img":"","description":"This sum will be granted to small communities through the State Water Pollution Control Revolving Fund Small Community Grant Fund to address wastewater treatment. Priority will be given to disadvantaged communities and public health hazards. Of the $260 million, $25 million is allocated for providing technical assistance to eligible communities"
+					}
+            ]
+        },
+        
+        
+        {
+			"nameShort":"Watershed Protection",
+			"name": "“Protecting Rivers, Lakes, Coastal Waters and Watersheds”",
+		   "category":"rivers",
+		   "amtDisplay":"$1.5 billion",
+		   "img":"./img/Alviso_Marina_County_Park_View_At_Sunset-Wanderenvy-640px.jpg",
+		   "description": "Watershed protection and restoration projects, including water rights for instream flows, river restoration, fish and wildlife corridors, fuel treatment, urban watersheds, coastal and marine restoration, water-related agricultural improvements and more would be funded under this category.",
+		   "children": [
+					{
+						"nameShort":"Watershed Grants","name": "Multibenefit Watershed Projects",  "amtDisplay":"$347.5 million", "value": 347.5, "agency": "State Conservancies", "img":"",  "url": "",
+				   "description":"This sum has been pre-allocated to specific Conservancies distributed throughout the state for water quality, water supply, and watershed protection and restoration projects. The Conservatories are named in Chapter 6 of Proposition 1. $20 million of the $347.5 million will be available for a competitive program to fund multibenefit watershed enhancements."
+					},{
+						"nameShort":"Streamflow Enhancement","name": "Projects to Enhance Stream Flows",  "amtDisplay":"$200 million", "value": 200, "agency": "Wildlife Conservation Board", "img":"",  "url": "","description":"This sum would be administered by the Wildlife Conservation Board for projects that enhance stream flows. "
+					},{
+						"nameShort":"Urban Creek Restoration","name": "Urban Creek Restoration, Including the Los Angeles River",  "amtDisplay":"$100 million","value": 100, "agency": "", "img":"",  "url": "",
+				   "description":"To fund projects that protect and enhance urban creeks and their tributaries. "
+					},{
+						
+						"nameShort":"Settlements",
+		   "name": "State Obligations in Water-Related Settlements",  "amtDisplay":"$475 million","value": 475, "agency": "Natural Resources Agency", "img":"",  "url": "","description":"This sum is for complying with specified sections of the Central Valley Project Improvement Act, Interstate compacts, and water-related settlement agreements.  Projects must provide state or regional economic benefits."
+					},{
+						"nameShort":"Watershed Restoration","name": "Statewide Watershed Restoration Projects",  "amtDisplay":"$285 million", "value": 285, "agency": "Dept. of Fish & Wildlife", "img":"",  "url": "","description":"This sum will be provided to the Department of Fish and Wildlife for watershed restoration projects such as stream crossings, fish passage, riparian buffers, sediment removal, and restoration of floodplains, meadows, forests, coastal wetlands, and more."
+					},{
+						"nameShort":"Delta Restoration", "name": "Delta Water Quality and Ecosystem Restoration",  "amtDisplay":"$87.5 million", "value": 87.5, "agency": "Dept. of Fish & Wildlife", "img":"",  "url": "",
+				   "description":"This sum will be provided to the Department of Fish and Wildlife for projects that benefit the Delta, including for water quality, ecosystem restoration, and fish protection purposes. Funds are not to be used for land acquisition or for activities related to the Delta conveyance facilities. "
+					}
+		   	
+            ]
+        },
+        
+        
+        {
+		   "nameShort":"Drought Preparedness",
+		   "name": "“Regional Water Security, Climate, and Drought Preparedness”",
+		   "category":"drought",
+		   "amtDisplay":"$810 million",
+		   "img":"",
+		   "description": "This sum funds projects that are included and implemented in integrated regional water management plans that responds to climate change and increases regional water security. Projects may benefit water reuse and recycling, water efficiency and conservation, conveyances, watershed project or restoration, stormwater management, conjunctive use of surface and groundwater storage, desalination, and water quality.",
+		   "children": [
+		   	
+		   	{
+		   		"nameShort":"By Hydrologic Region","name": "By Hydrologic Region",  "amtDisplay":"$510 million", "value": 0, "agency": "Dept. of Water Resources", "img": "","url": "","description":"Specific allocations are made to the hydrologic regions of California, with some regions merged and others subdivided for funding purposes. Allocations range from $98 million for the Los Angeles subregion to $13 million for the Mountain Counties Overlay (which are within the Sacramento River and San Joaquin River hydrologic regions). ",
+					"children":[
+					{
+							"nameShort":"","name": "North Coast",  "amtDisplay":"$26.5 million", "value": 26.5, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":"Twelve hydrologic regions will share $510 million toward these goals"
+						},
+						{
+							"nameShort":"", "name": "San Francisco Bay",  "amtDisplay":"$65 million", "value": 65, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"",  "name": "Central Coast",  "amtDisplay":"$43 million", "value": 43, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"","name": "Los Angeles",  "amtDisplay":"$98 million", "value": 98, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"",   "name": "Santa Ana",  "amtDisplay":"$63 million", "value": 63, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"", "name": "San Diego",  "amtDisplay":"$52.5 million", "value": 52.5, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"",  "name": "Sacramento River",  "amtDisplay":"$37 million", "value": 37, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"", "name": "San Joaquin River",  "amtDisplay":"$31 million", "value": 31, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"", "name": "Tulare/Kern",  "amtDisplay":"$34 million", "value": 34, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"", "name": "North/South Lahontan",  "amtDisplay":"$24.5 million", "value": 24.5, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"",  "name": "Colorado River Basin",  "amtDisplay":"$22.5 million", "value": 22.5, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						},
+						{
+							"nameShort":"", "name": "Mountain Counties Overlay",  "amtDisplay":"$13 million", "value": 13, "agency": "Dept. of Water Resources", "img":"",  "url": "","description":""
+						}
+		   		]
+		   	},{
+		   		"nameShort":"Water Conservation", "name": "Urban and Agricultural Water Conservation",  "amtDisplay":"$100 million", "value": 100, "agency": "", "img": "","url": "","description":"This sum is dedicated to water conservation and water-use efficiency plans, projects, and programs. "
+		   	},{
+		   		"nameShort":"Stormwater",   "name": "Stormwater Management",  "amtDisplay":"$200 million", "value": 200, "agency": "", "img": "","url": "","description":"This sum is dedicated to stormwater management projects that provide multiple benefits, including for green infrastructure, rainwater and stormwater capture projects, and stormwater treatment facilities. "
+		   	}
+         ]
+        }, 
+        
+          
+   	{
+		   "nameShort":"Water Storage",
+		   "name": "“Statewide Water System Operational Improvement and Drought Preparedness”",
+		   "category":"storage",
+		   "amtDisplay":"$2.7 billion",
+		   "img":"./img/Aerial_view_-_Shasta_Dam_CA-robert-campbell-cc.jpg",
+		   "description": "This sum will fund surface storage and groundwater storage projects, including groundwater contamination prevention or cleanup, to improve the operation of the state water system. Projects must provide ecosystem improvements for Delta or Delta tributaries and will be assessed by its potential to benefit ecosystems, water quality, flood control, and recreation.",
+			   "children": [
+			
+				{
+					"nameShort":"", "name": "Statewide Water Storage", "category":"storage”",  "amtDisplay":"$2.7 billion", "value": 2700, "agency": "", "url": "" , "description":""
+				}
+			
+				]
+        },      
+                 
+         
+         
+        
+   {
+		   "nameShort":"Water Recycling",
+		   "name": "“Water Recycling”",
+		   "category":"recycling",
+		   "amtDisplay":"$725 million",
+		   "img":"./img/Aerial_Survey_SP-EC_1-31-13_125-Tim-Williamsen-cc-600px.jpg",
+		   "description": "Grants or loans will be provided for water recycling projects (both potable and non-potable). Projects on brackish and seawater desalination as well as pilot projects that test new technology for salt and contaminant removal are also included.",
+		   "children": [
+		   	
+				{
+					"nameShort":"", "name": "Water Recycling",
+			   "img":"./img/Aerial_Survey_SP-EC_1-31-13_125-Tim-Williamsen-cc-600px.jpg",
+			   "description":"Grants or loans will be provided for water recycling projects (both potable and non-potable). Projects on brackish and seawater desalination as well as pilot projects that test new technology for salt and contaminant removal are also included.”",  "amtDisplay":"$725 million", "value": 725, "agency": "", "url": ""
+				}
+		   	
+            ]
+        },      
+        
+        
+         
+        
+   {
+		   "nameShort":"Groundwater",
+		   "name": "“Groundwater Sustainability”",
+		   "category":"groundwater",
+		   "amtDisplay":"$900 million",
+		   "img":"",
+		   "description": "Preventing or cleaning up contaminated groundwater that is or was used as a major source of drinking water in vulnerable and high-use groundwater basins, including Superfund sites.",
+		   "children": [
+		   	
+				{
+					"nameShort":"Groundwater Planning", "name": "Groundwater Planning",  "amtDisplay":"$100 million", "value": 100, "agency": "", "img":"", "url": "","description":"This sum will be granted for developing and implementing groundwater plans and projects. "
+				},{
+					"nameShort":"Contamination Prevention", "name": "Contamination Prevention",  "amtDisplay":"$80 million", "value": 80, "agency": "", "img":"", "url": "","description":"Grants will be given for treatment and remediation activities that prevent or reduce the contamination of groundwater that serves as a source of drinking water. "
+				},{
+					"nameShort":"Groundwater Sustainability", "name": "Groundwater Sustainability",  "amtDisplay":"$720 million", "value": 720, "agency": "", "img":"", "url": "","description":"Preventing or cleaning up contaminated groundwater that is or was used as a major source of drinking water in vulnerable and high-use groundwater basins, including Superfund sites"
+				}
+		
+            ]
+        },     
+        
+     
+        
+  	 {
+		   "nameShort":"Floods",
+		   "name": "“Flood Management”",
+		   "category":"flood",
+		   "amtDisplay":"$395m",
+		   "agency": "Dept. of Water Resources/Central Valley Flood Protection Board",
+		   "img":"",
+		   "description": "This category funds statewide flood management projects and activities that achieve multiple benefits, including public safety and fish and wildlife habitat enhancement.",
+		   "children": [
+		   	
+					{
+						"nameShort":"Delta Flood Management", "name": "Delta Flood Management",  "amtDisplay":"$295 million","value": 295, "agency": "Dept. of Water Resources/Central Valley Flood Protection Board", "img": "","url": "","description":"This sum will be used to increase levee resilience and reduce the risk of levee failure from earthquakes, floods, or sea level rise in the Delta. Emergency response and repair projects in the Delta are also eligible."
+					},{
+						"nameShort":"Statewide Flood Management", "name": "Statewide Flood Management",  "amtDisplay":"$100 million", "value": 100, "agency": "", "img": "","url": "","description":"To fund statewide projects in urban rivers and watersheds that increase regional and local water self-sufficiency and meet at least two of the following objectives: promote groundwater recharge and water reuse; reduce energy consumption; use soils, plants, and natural processes to treat runoff; create or restore native habitat; increase regional and local resiliency and adaptability to climate change."
+					}
+		   	
+            ]
+        }      
+        
+        
+        
+        
+    ]
+}
